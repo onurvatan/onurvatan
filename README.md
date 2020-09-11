@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning Distrubuted Cloud technologies
 - 
 
-📬 Get in touch
-Email: onurvatan8@gmail.com
-LinkedIn: linkedin.com/in/onurvatan
-Blogs
-medium.com/@natterstefan
+### 📬 Get in touch
+### Email: onurvatan8@gmail.com
+### LinkedIn: linkedin.com/in/onurvatan
+### Blogs
+### medium.com/@natterstefan
 
 <!--
 **onurvatan/onurvatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
