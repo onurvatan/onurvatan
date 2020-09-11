@@ -1,7 +1,7 @@
 ### Hi👋🏻,
 ### I'm Onur, I'm a software developer from Turkey.
-- 🔭 I’m currently working on .Net Core projects and Kubernetes
-- 🌱 I’m currently learning Distrubuted Cloud technologies on AWS and Azure
+- 🔭 I’m currently working on .Net Core projects on Kubernetes
+- 🌱 I’m currently improving myself on Distrubuted Cloud technologies on AWS and Azure
 
 ### 📬 Get in touch
 #### Email: onurvatan8@gmail.com
