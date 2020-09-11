@@ -1,13 +1,30 @@
 ### Hi👋🏻,
 ### I'm Onur, I'm a software developer from Turkey.
-- 🔭 I’m currently working on .Net Core projects
+- 🔭 I’m currently working on .Net Core projects and Kubernetes
 - 🌱 I’m currently learning Distrubuted Cloud technologies
-- 
 
 ### 📬 Get in touch
-## Email: onurvatan8@gmail.com
-## LinkedIn: linkedin.com/in/onurvatan
-## Blog : medium.com/@natterstefan
+#### Email: onurvatan8@gmail.com
+#### LinkedIn: linkedin.com/in/onurvatan
+#### Blog : medium.com/@natterstefan
+
+### My Skills 
+- .Net Core
+- .Net Framework.
+- Entity Framework Code First
+- Postgresql - Mssql Server
+- Dapper - Automapper
+- Azure - Aws Experience
+- Docker - Kubernetes
+- Octopus Deploy - Pulumi
+- Jenkins - .net cakebuild
+- Angular - Typescript
+- SignalR
+- Redis - MongoDb
+- ELK Stack / Apm
+- TDD - EDD - RabbitMq
+- Javascript - Jquery- Bootstrap 
+- TFS - Github - Bitbucket
 
 <!--
 **onurvatan/onurvatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
