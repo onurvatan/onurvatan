@@ -5,8 +5,8 @@
 
 ### 📬 Get in touch
 #### Email: onurvatan8@gmail.com
-#### LinkedIn: linkedin.com/in/onurvatan
-#### Blog : medium.com/@onurvatan
+#### LinkedIn: https://www.linkedin.com/in/onurvatan/
+#### Blog : https://medium.com/@onurvatan
 
 ### My Skills 
 - .Net Core
