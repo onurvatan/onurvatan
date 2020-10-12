@@ -8,7 +8,7 @@
 #### LinkedIn: https://www.linkedin.com/in/onurvatan/
 #### Blog : https://medium.com/@onurvatan
 
-### My Skills 
+<!--### My Skills 
 - .Net Core
 - .Net Framework.
 - Entity Framework Code First
@@ -25,7 +25,7 @@
 - TDD - EDD - RabbitMq
 - Javascript - Jquery- Bootstrap 
 - TFS - Github - Bitbucket
-
+-->
 <!--
 **onurvatan/onurvatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
