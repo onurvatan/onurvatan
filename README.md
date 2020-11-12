@@ -1,6 +1,6 @@
 ### Hi👋🏻,
 ### I'm Onur, I'm a software developer from Turkey.
-- 🔭 I’m currently working on .Net Core projects on Kubernetes
+- 🔭 I’m currently working on .Net Core and Golang projects on Kubernetes
 - 🌱 I’m currently improving myself on Distrubuted Cloud technologies on AWS and Azure
 
 ### 📬 Get in touch
