@@ -1,6 +1,6 @@
 ### Hi👋🏻,
 ###  I'm Onur, I'm a Full Stack Web Developer at London
-- ⚡ I’m currently working on .Net Core,Node.js React projects
+- ⚡ I’m currently working on .Net Core, Blazor/Angular/React projects
 - ☁️ I am experienced in Distributed Cloud technologies, AWS, Azure, Serverless, Kubernetes
 
 ### 📬 Get in touch
