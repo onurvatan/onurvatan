@@ -9,7 +9,7 @@
 #### Blog : https://medium.com/@onurvatan
 
 ### My Skills 
-- .Net Core - Javascript
+- .NET Core - Javascript
 - React - Typescript - Angular2+
 - Postgresql - MS Sql Server - EF Core
 - Azure Devops - Aws Experience
