@@ -7,7 +7,7 @@
 #### Email: onur@techproxy.co.uk
 #### LinkedIn: https://www.linkedin.com/in/onurvatan/
 #### Blog : https://medium.com/@onurvatan
-
+#### Badges : https://www.credly.com/users/onur-vatan.c4a0bb1d
 ### My Skills 
 - .NET Core - Javascript
 - React - Typescript - Angular2+
