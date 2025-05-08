@@ -2,6 +2,7 @@
 ###  I'm Onur, I'm a Full Stack Web Developer based UK
 - ⚡ I’m currently working on .Net Core, Blazor/Angular/React projects
 - ☁️ I am experienced in Distributed Cloud technologies, AWS, Azure, Serverless, Kubernetes
+- 🌱 I’m currently learning Gen AI, Azure AI and MCP servers
 
 ### 📬 Get in touch
 #### Email: onur@techproxy.co.uk
