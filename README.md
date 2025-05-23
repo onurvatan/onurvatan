@@ -12,7 +12,7 @@
 ### My Skills 
 - .NET Core - Javascript
 - React - Typescript - Angular2+
-- Postgresql - MS Sql Server - EF Core
+- Postgresql - MS Sql Server - Oracle - EF Core
 - Azure Devops - Aws Experience
 - Docker - Kubernetes
 - Redis - MongoDb - RabbitMq
